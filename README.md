@@ -4,7 +4,9 @@
 
 Here are some ideas to get you started:
 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gokceenazdeniz&show_icons=true&theme=radical)
+<img src="animated-unicorn.gif" width="auto">
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
